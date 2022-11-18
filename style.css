@@ -1,0 +1,29 @@
+/* Background dos posts = #fffafa
+Cor da data = #008080 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{
+    margin: 0 auto;
+    width: 65%;
+    background-color: rgb(207, 206, 206);
+}
+.post-container{
+    background-color: #ececec;
+}
+.post{
+    padding: 2% 5% 2% 5%;
+}
+.date{
+    font-family: 'Roboto', sans-serif;
+    color: #008080;
+    font-size: 0.9rem;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.7rem;
+}
+.post-content{
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 1rem;
+}
